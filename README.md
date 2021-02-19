@@ -1,1 +1,1 @@
-# -jenkins-slave-nodejs-ubi8
+# jenkins-slave-nodejs-ubi8
